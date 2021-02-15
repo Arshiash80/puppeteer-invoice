@@ -1,0 +1,17 @@
+{
+  "name": "htmltopdf",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "modclean": "modclean -n default:safe"
+  },
+  "author": "hardeeksharma",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^3.1.6",
+    "modclean": "^3.0.0-beta.1",
+    "puppeteer": "^7.1.0"
+  }
+}

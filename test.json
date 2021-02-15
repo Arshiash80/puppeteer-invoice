@@ -1,0 +1,16 @@
+{
+    "createdDate": "",
+    "invoiceId": "",
+    "products": [  ],
+    "wasteOil": {
+        "collectedWasteOil":  "",
+        "isPaid": "",
+        "code": "",
+        "payment": 999.81
+    },
+    "address": {
+        "restaurantName": "",
+        "specification": "",
+        "postcode": ""
+    }
+}
